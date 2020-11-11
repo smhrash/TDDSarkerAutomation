@@ -1,0 +1,5 @@
+Test Case: 1
+1. User navigates to Amazon Home page
+2. User writes "computers" on search box
+3. User clicks on search button
+4. User verify "computers" text

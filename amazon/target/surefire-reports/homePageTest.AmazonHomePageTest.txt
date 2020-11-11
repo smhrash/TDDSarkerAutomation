@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: homePageTest.AmazonHomePageTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 3.183 s <<< FAILURE! - in homePageTest.AmazonHomePageTest
+setUp(homePageTest.AmazonHomePageTest)  Time elapsed: 2.799 s  <<< FAILURE!
+org.openqa.selenium.InvalidArgumentException: 
+invalid argument
+  (Session info: chrome=85.0.4183.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Users-MBP', ip: '2604:2000:6a80:1352:0:cec4:e9ae:1382%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/l2/dpb5_d4d40v...}, goog:chromeOptions: {debuggerAddress: localhost:64807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3ed50ebb1c34a4f0e8fc2a5addcea641
+
